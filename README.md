@@ -1,5 +1,11 @@
 # color-switch-asm (multi-player)
-פרויקט אסמבלי 8086 - color switch multi-player
+assembly 8086 16 bits project - color switch multi-player
 <br>
-להריץ על 200000 cycles
+The project runs on DOSBox at 20000 cycles.
+<br>
+Author - Afek Avisror
+
+
+
+
 
